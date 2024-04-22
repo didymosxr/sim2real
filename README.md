@@ -1,6 +1,4 @@
 # sim2real
 Rendered training dataset for ADAPT sim2real challenge.
 
-Dataset is part of a paper under review for CBMI2024. A release of the data can be found [here](https://zenodo.org/uploads/11029325). 
-
-NOTE: the release of the dataset will be updated when the paper is going to be published.
+Dataset is part of a paper under review for CBMI2024. The release of the dataset will be provided once the paper is accepted for publication.
