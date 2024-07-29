@@ -1,4 +1,4 @@
-# sim2real
+# ADAPT JR-Sim2Real dataset
 Rendered training dataset for ADAPT sim2real challenge.
 
-Dataset is part of a paper under review for CBMI2024. The release of the dataset will be provided once the paper is accepted for publication.
+Dataset is part of the paper "Data-efficient Domain Transfer for Instance Segmentation for AR Scenes" accepted for CBMI2024. The dataset can be downloaded from Zenodo: https://doi.org/10.5281/zenodo.12805642.
